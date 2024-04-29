@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Sandy1005/Letter/static/css/main.2de38306.css",
+    "main.js": "/Sandy1005/Letter/static/js/main.7c1b5c0b.js",
+    "static/js/453.c597153d.chunk.js": "/Sandy1005/Letter/static/js/453.c597153d.chunk.js",
+    "static/media/kushi.mp3": "/Sandy1005/Letter/static/media/kushi.86e62c44e26045556df9.mp3",
+    "index.html": "/Sandy1005/Letter/index.html",
+    "main.2de38306.css.map": "/Sandy1005/Letter/static/css/main.2de38306.css.map",
+    "main.7c1b5c0b.js.map": "/Sandy1005/Letter/static/js/main.7c1b5c0b.js.map",
+    "453.c597153d.chunk.js.map": "/Sandy1005/Letter/static/js/453.c597153d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2de38306.css",
+    "static/js/main.7c1b5c0b.js"
+  ]
+}
